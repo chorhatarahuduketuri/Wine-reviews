@@ -1,0 +1,3 @@
+Here is a CSV version of the data I scraped. This dataset has three new fields
+
+--Title (which you can parse the vintage from), Taster Name, and Taster Twitter Handle. This should also fix the duplicate entries problem in the first version of the dataset and add ~25k unique reviews to play with. 
